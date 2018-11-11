@@ -38,3 +38,6 @@ This repository contains the Convolution Neural Network architecture trained on 
 > $ pip install -r requirements.txt
 
 > $ python3 network.py parameters.pkl
+
+#### Alternatively
+> click cell and Run all on the Jupyter Notebook to run the [network.ipynb](https://github.com/imisi-akande/handwritten_classifier/blob/development/DeepNN/network.ipynb) file
