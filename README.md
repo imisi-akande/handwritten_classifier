@@ -37,4 +37,4 @@ This repository contains the Convolution Neural Network architecture trained on 
 
 > $ pip install -r requirements.txt
 
-> $ python network.py parameters.pkl
+> $ python3 network.py parameters.pkl
