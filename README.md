@@ -4,6 +4,7 @@
 This repository contains the Convolution Neural Network architecture trained on the MNIST handwritten digits implemented using Python programming language and Numpy library. Here is the description of the model implemented:
 
 1. 2D convolution layer:
+
     a. 2D convolution with a 10x10 filter, a stride of 1, and 32 output channels.
     b. Add a bias to each output channel. There are 32 bias values, one for
        each output channel.
